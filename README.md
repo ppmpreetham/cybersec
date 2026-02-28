@@ -5,7 +5,7 @@ This repository contains various folders and files that are relevant to the work
 Access them from here:
 - [OSINT](osint)
 - [Cryptography](cryptography)
-- [Reverse Engineering](reverse_engineering)
+- [Reverse Engineering](reverse-engineering)
 
 > [!NOTE]
 > Files for malware analysis is not included since it's illegal to share them. However, you can find similar samples on platforms like VirusTotal or Hybrid Analysis for practice.
